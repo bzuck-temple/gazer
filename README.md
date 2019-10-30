@@ -1,3 +1,11 @@
+# This package was forked from the owners on October 29th 2019. 
+Any updates to this package were made by Bonnie Zuckerman for use in the Concepts and Cognition lab. Find the orginal GazeR package by following this link github.com/dmirman/gazer.
+
+## Updates By Bonnie (October 2019)
+
+- Edit to merge_pupil function to replace "." with NAs 
+
+
 # gazeR:A package to analyze gaze position and pupil size data
 
 For a detailed overview of how to use gazeR, please see the vignettes and posted pre-print (https://psyarxiv.com/gvcxb/). 
