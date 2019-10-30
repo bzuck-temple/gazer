@@ -1,5 +1,5 @@
 # This package was forked from the owners on October 29th 2019. 
-Any updates to this package were made by Bonnie Zuckerman for use in the Concepts and Cognition lab. Find the orginal GazeR package by following this link github.com/dmirman/gazer.
+Any updates to this package were made by Bonnie Zuckerman for use in the Concepts and Cognition lab. Find the orginal GazeR package [here](github.com/dmirman/gazer).
 
 ## Updates By Bonnie (October 2019)
 
